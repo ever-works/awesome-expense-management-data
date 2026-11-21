@@ -1,0 +1,13 @@
+name: "Veryfi"
+description: "Veryfi uses AI-powered OCR to extract data from receipts and invoices in real time. It targets developers and businesses needing receipt scanning and expense data integration. Pricing includes a free tier and paid API plans."
+source_url: "https://www.veryfi.com/"
+category: "Receipt Scanning"
+tags:
+  - "receipt-scanning"
+  - "ai-powered"
+  - "api"
+  - "freemium"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.veryfi.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.veryfi.com/>\n"
+updated_at: "2026-11-21 18:06"

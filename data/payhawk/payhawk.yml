@@ -1,0 +1,13 @@
+name: "Payhawk"
+description: "Payhawk issues corporate cards and manages expenses and accounts payable for businesses in Europe and beyond. It combines spend controls, invoice processing, and accounting integrations. Pricing is paid with tiered plans."
+source_url: "https://www.payhawk.com/"
+category: "Corporate Cards & Spend"
+tags:
+  - "corporate-cards-and-spend"
+  - "expense-management"
+  - "accounts-payable"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.payhawk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.payhawk.com/>\n"
+updated_at: "2026-11-21 18:06"

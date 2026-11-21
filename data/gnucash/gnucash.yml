@@ -1,0 +1,13 @@
+name: "GnuCash"
+description: "GnuCash is free, open-source personal and small-business financial accounting software with expense tracking and reconciliation. It is desktop-based and supports local data storage. Licensed under GPL v3."
+source_url: "https://www.gnucash.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "accounting"
+  - "expense-management"
+  - "personal-finance"
+icon_url: "https://icons.duckduckgo.com/ip3/www.gnucash.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.gnucash.org/>\n- Repository: <https://github.com/Gnucash/gnucash>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 18:06"

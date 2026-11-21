@@ -1,0 +1,13 @@
+name: "Odoo"
+description: "Odoo is an open-source ERP suite with an expense management module for employee reimbursements and approvals. It offers a community edition and a paid enterprise cloud version. The community edition is licensed under LGPL."
+source_url: "https://www.odoo.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "enterprise"
+  - "erp"
+  - "expense-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.odoo.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.odoo.com/>\n- Repository: <https://github.com/odoo/odoo>\n\nLicense: LGPL-3.0.\n"
+updated_at: "2026-11-21 18:06"

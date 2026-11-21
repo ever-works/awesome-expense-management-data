@@ -1,0 +1,13 @@
+name: "Fyle"
+description: "Fyle is an expense management platform for businesses that integrates with corporate cards and accounting software. It automates receipt collection, expense reporting, and reimbursements. Fyle offers paid plans with a free trial."
+source_url: "https://www.fylehq.com/"
+category: "Expense Management"
+tags:
+  - "expense-management"
+  - "receipt-scanning"
+  - "reimbursements"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.fylehq.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.fylehq.com/>\n"
+updated_at: "2026-11-21 18:06"

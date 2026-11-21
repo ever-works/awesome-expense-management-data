@@ -1,0 +1,31 @@
+company_name: "Awesome Expense Management"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome Expense Management"
+initial_prompt: "A curated directory of expense, corporate-card and spend-management software. Include products such as Expensify, Ramp, Brex, Navan, SAP Concur, Zoho Expense, Pleo, Spendesk, Emburse, Fyle, Payhawk, Ever Gauzy, plus other notable commercial and open-source options. Categories: Expense Management, Corporate Cards & Spend, Receipt Scanning, Travel & Expense, Reimbursements, Open Source. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-expense-management-website"
+company_website: "https://expense-management.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

@@ -1,0 +1,13 @@
+name: "Ramp"
+description: "Ramp provides corporate cards, expense management, and automated accounts payable for businesses. It offers unlimited physical and virtual cards with cashback and integrates with accounting software. Ramp is free to use, earning revenue from interchange fees."
+source_url: "https://www.ramp.com/"
+category: "Corporate Cards & Spend"
+tags:
+  - "corporate-cards-and-spend"
+  - "expense-management"
+  - "api"
+  - "free-plan"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ramp.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.ramp.com/>\n"
+updated_at: "2026-11-21 18:06"

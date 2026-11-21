@@ -1,0 +1,11 @@
+name: "Shoeboxed"
+description: "Shoeboxed scans and digitizes receipts and business cards for expense tracking and tax preparation. It serves small businesses and freelancers with mail-in or mobile scanning options. Pricing is paid with monthly subscriptions."
+source_url: "https://www.shoeboxed.com/"
+category: "Receipt Scanning"
+tags:
+  - "receipt-scanning"
+  - "expense-management"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.shoeboxed.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.shoeboxed.com/>\n"
+updated_at: "2026-11-21 18:06"

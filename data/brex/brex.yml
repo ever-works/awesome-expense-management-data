@@ -1,0 +1,12 @@
+name: "Brex"
+description: "Brex offers corporate cards and cash management accounts for startups and e-commerce companies. It provides expense management, integrations with accounting platforms, and rewards without personal guarantees. Brex is free to use with paid premium options."
+source_url: "https://www.brex.com/"
+category: "Corporate Cards & Spend"
+tags:
+  - "corporate-cards-and-spend"
+  - "expense-management"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/www.brex.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.brex.com/>\n"
+updated_at: "2026-11-21 18:06"

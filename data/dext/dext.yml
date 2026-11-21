@@ -1,0 +1,12 @@
+name: "Dext"
+description: "Dext (formerly Receipt Bank) captures receipts and invoices, extracting data for accounting and expense workflows. It serves bookkeepers and small businesses with integrations to major accounting platforms. Pricing is paid with tiered plans."
+source_url: "https://dext.com/"
+category: "Receipt Scanning"
+tags:
+  - "receipt-scanning"
+  - "expense-management"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/dext.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://dext.com/>\n"
+updated_at: "2026-11-21 18:06"

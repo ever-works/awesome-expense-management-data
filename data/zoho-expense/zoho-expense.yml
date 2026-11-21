@@ -1,0 +1,13 @@
+name: "Zoho Expense"
+description: "Zoho Expense is an expense reporting tool for small and midsize businesses, featuring receipt scanning, mileage tracking, and multi-level approval workflows. It integrates with Zoho Books and other accounting software. A free plan is available for limited users, with paid tiers beyond that."
+source_url: "https://www.zoho.com/expense"
+category: "Expense Management"
+tags:
+  - "expense-management"
+  - "receipt-scanning"
+  - "reimbursements"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zoho.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zoho.com/expense>\n"
+updated_at: "2026-11-21 18:06"

@@ -1,0 +1,38 @@
+- id: expense-management
+  name: "Expense Management"
+- id: receipt-scanning
+  name: "Receipt Scanning"
+- id: reimbursements
+  name: "Reimbursements"
+- id: api
+  name: "API"
+- id: freemium
+  name: "Freemium"
+- id: corporate-cards-and-spend
+  name: "Corporate Cards & Spend"
+- id: free-plan
+  name: "Free Plan"
+- id: free
+  name: "Free"
+- id: travel-and-expense
+  name: "Travel & Expense"
+- id: enterprise
+  name: "Enterprise"
+- id: paid
+  name: "Paid"
+- id: accounts-payable
+  name: "Accounts Payable"
+- id: ai-powered
+  name: "AI-Powered"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: accounting
+  name: "Accounting"
+- id: erp
+  name: "ERP"
+- id: crm
+  name: "CRM"
+- id: personal-finance
+  name: "Personal Finance"

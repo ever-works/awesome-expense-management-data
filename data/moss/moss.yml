@@ -1,0 +1,13 @@
+name: "Moss"
+description: "Moss provides corporate cards and spend management for businesses, primarily in Europe. It offers virtual cards, expense tracking, and integrations with accounting tools. Moss has a free plan and paid subscriptions."
+source_url: "https://getmoss.com/"
+category: "Corporate Cards & Spend"
+tags:
+  - "corporate-cards-and-spend"
+  - "expense-management"
+  - "api"
+  - "freemium"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/getmoss.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://getmoss.com/>\n"
+updated_at: "2026-11-21 18:06"

@@ -1,0 +1,13 @@
+name: "Expensify"
+description: "Expensify offers expense reporting, receipt scanning, and corporate card reconciliation for small businesses and enterprises. It automates expense categorization and reimbursements via ACH. Pricing includes a free plan and paid tiers based on active users."
+source_url: "https://www.expensify.com/"
+category: "Expense Management"
+tags:
+  - "expense-management"
+  - "receipt-scanning"
+  - "reimbursements"
+  - "api"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/www.expensify.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.expensify.com/>\n"
+updated_at: "2026-11-21 18:06"
